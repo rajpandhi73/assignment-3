@@ -1,0 +1,25 @@
+Q-3) What is the difference between OOP and POP?
+
+--> OOP:
+- it is known as Object Oriented Programming.
+- its main focus is Objects and classes.
+- it is organized around objects.
+- modularity od OOP is high, through encapsulation and abstraction.
+- data handling: Data encapsulated within objects.
+- its reusability is high, through inheritance and polymorphism
+
+--> POP:
+- it is known as Procedure Oriented Programming.
+- its main focus is Functions and procedures.
+- it is organized around functions.
+- modularity od POP is limited, as functions can be scattered in it.
+- data handling: Data is often global.
+- its reusability is also limited, mainly through function reuse
+
+--> Both POP and OOP have their own strengths as both are useful in its own way.
+
+
+
+
+
+

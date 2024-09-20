@@ -1,0 +1,24 @@
+1) what is OOP?
+--> OOP means Object Oriented Programming.
+--> It is a programming language based on the concepts of the object.
+--> It contains the data in the form of fields and the code in the form of methods.
+--> OOP is designed to improve the flexibility of the software through the use of objects.
+
+2) List OOP concepts.
+
+1- Class: it is the collection of data members and data functions used to make an object.
+it is also used as a blueprint to make any object.
+
+2- Object: it is an instance of a class. It is self-contained component that contains properties and
+methods used to make any data useful.
+
+3- Inheritance: it is a method through which one class can be inherited in another class. 
+this allows the creation of new class that is modified version of previous class.
+
+4- Encapsulation: This helps in hiding the internal state of object and only exposes what is necessary.
+
+5- Polymorphism: A same data type which is used in parent class and also being used in child class
+object is known as Polymorphism.
+
+6- Abstraction: The method of hiding the complex features of object and only exposing necessary things 
+to user is known as abstraction.
